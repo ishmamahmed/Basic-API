@@ -1,8 +1,8 @@
 # Basic-API
 The following frameworks need to be installed:
 Django, 
-Django Rest Framework 
-Django Rest Framework JWT
+Django Rest Framework, 
+Django Rest Framework JWT.
 
 Installing required frameworks using command line:
 
