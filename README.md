@@ -4,7 +4,7 @@ Django,
 Django Rest Framework and  
 Django Rest Framework JWT.
 
-Installing required frameworks using command line:
+Install required frameworks using following command line in terminal:
 
 pip install django djangorestframework djangorestframework-jwt
 
